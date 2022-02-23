@@ -2,7 +2,7 @@
 /tsconfig.json configuration for Angular
 
 ``` your tree 
-app-
+app|...
    |-tsconfig.app.json
    |-tsconfig.json
    |-tsconfig.spec.json
