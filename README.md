@@ -1,5 +1,5 @@
 # tsconfig.json
-./tsconfig.json/ configuration for Angular
+/tsconfig.json configuration for Angular
 
 This is when you get Property '' has no initializer and is not definitely assigned in the constructor --> error.
 Add below to your tsconfig.json
